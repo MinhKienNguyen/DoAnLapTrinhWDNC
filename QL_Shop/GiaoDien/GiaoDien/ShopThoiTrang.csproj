@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{789A64A2-6F79-4FD4-940C-572759D56D4E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GiaoDien</RootNamespace>
+    <AssemblyName>GiaoDien</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v18.1" />
+    <Reference Include="DevExpress.CodeParser.v18.1, Version=18.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v18.1" />
+    <Reference Include="DevExpress.DataAccess.v18.1, Version=18.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Images.v18.1, Version=18.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v18.1.Core" />
+    <Reference Include="DevExpress.Utils.v18.1" />
+    <Reference Include="DevExpress.Xpo.v18.1, Version=18.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v18.1" />
+    <Reference Include="DevExpress.Sparkline.v18.1.Core" />
+    <Reference Include="DevExpress.XtraEditors.v18.1" />
+    <Reference Include="DevExpress.XtraGrid.v18.1, Version=18.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v18.1, Version=18.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v18.1, Version=18.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v18.1, Version=18.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v18.1.Core, Version=18.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v18.1, Version=18.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controllers\BanHangControllers.cs" />
+    <Compile Include="Controllers\LoginControllers.cs" />
+    <Compile Include="Controllers\MangHinhControllers.cs" />
+    <Compile Include="Controllers\NguoiDungNhomNgDungControllers.cs" />
+    <Compile Include="Controllers\NhanvienControllers.cs" />
+    <Compile Include="Controllers\PhanQuyenControllers.cs" />
+    <Compile Include="DoMain\Commons.cs" />
+    <Compile Include="Models\BanHangModel.cs" />
+    <Compile Include="Models\LoginModel.cs" />
+    <Compile Include="Models\MangHinhModel.cs" />
+    <Compile Include="Models\NguoiDungNhomNgDungModel.cs" />
+    <Compile Include="Models\NhanvienModel.cs" />
+    <Compile Include="Models\PhanQuyenModel.cs" />
+    <Compile Include="Unity\ConfigServerSQL.cs" />
+    <Compile Include="Unity\UnityClass.cs" />
+    <Compile Include="Views\CauHinhServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\CauHinhServer.Designer.cs">
+      <DependentUpon>CauHinhServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmDoiMK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmDoiMK.Designer.cs">
+      <DependentUpon>frmDoiMK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmBanHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmBanHang.Designer.cs">
+      <DependentUpon>frmBanHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmDagNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmDagNhap.Designer.cs">
+      <DependentUpon>frmDagNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmKhuyenMai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmKhuyenMai.Designer.cs">
+      <DependentUpon>frmKhuyenMai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\frmNhaCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmNhaCC.Designer.cs">
+      <DependentUpon>frmNhaCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmNhapHang.Designer.cs">
+      <DependentUpon>frmNhapHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmThemNhomQuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmThemNhomQuyen.Designer.cs">
+      <DependentUpon>frmThemNhomQuyen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmTra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmTra.Designer.cs">
+      <DependentUpon>frmTra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmTTPhanMem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmTTPhanMem.Designer.cs">
+      <DependentUpon>frmTTPhanMem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmTTTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmTTTaiKhoan.Designer.cs">
+      <DependentUpon>frmTTTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UC_BanHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UC_BanHang.Designer.cs">
+      <DependentUpon>UC_BanHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UC_DanhMucHangHoa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UC_DanhMucHangHoa.Designer.cs">
+      <DependentUpon>UC_DanhMucHangHoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UC_KhachHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UC_KhachHang.Designer.cs">
+      <DependentUpon>UC_KhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UC_MangHinh.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UC_MangHinh.Designer.cs">
+      <DependentUpon>UC_MangHinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UC_NguoiDungNhomNguoiDung.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UC_NguoiDungNhomNguoiDung.Designer.cs">
+      <DependentUpon>UC_NguoiDungNhomNguoiDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UC_NhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UC_NhanVien.Designer.cs">
+      <DependentUpon>UC_NhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UC_PhanQuyen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UC_PhanQuyen.Designer.cs">
+      <DependentUpon>UC_PhanQuyen.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Views\CauHinhServer.resx">
+      <DependentUpon>CauHinhServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmDoiMK.resx">
+      <DependentUpon>frmDoiMK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmBanHang.resx">
+      <DependentUpon>frmBanHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmDagNhap.resx">
+      <DependentUpon>frmDagNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmKhuyenMai.resx">
+      <DependentUpon>frmKhuyenMai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Views\frmNhaCC.resx">
+      <DependentUpon>frmNhaCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmNhapHang.resx">
+      <DependentUpon>frmNhapHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmThemNhomQuyen.resx">
+      <DependentUpon>frmThemNhomQuyen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmTra.resx">
+      <DependentUpon>frmTra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmTTPhanMem.resx">
+      <DependentUpon>frmTTPhanMem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmTTTaiKhoan.resx">
+      <DependentUpon>frmTTTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UC_BanHang.resx">
+      <DependentUpon>UC_BanHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UC_DanhMucHangHoa.resx">
+      <DependentUpon>UC_DanhMucHangHoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UC_KhachHang.resx">
+      <DependentUpon>UC_KhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UC_MangHinh.resx">
+      <DependentUpon>UC_MangHinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UC_NguoiDungNhomNguoiDung.resx">
+      <DependentUpon>UC_NguoiDungNhomNguoiDung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UC_NhanVien.resx">
+      <DependentUpon>UC_NhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UC_PhanQuyen.resx">
+      <DependentUpon>UC_PhanQuyen.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_personal-information_47997.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddUsers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dangnhap.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\46028746_193817458165260_654723865414467584_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\46028746_193817458165260_654723865414467584_n1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout-icon-512x510.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross-31176_640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross-31176_6401.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bb87c06b8cb8fad5ffe9abab11679fae.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bb87c06b8cb8fad5ffe9abab11679fae1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nguoi_su_dung.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ban-hang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Phan-mem-quan-ly-ban-hang-Than-Tai-Nhap-hang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1417423865.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\huong-dan-doi-tra-hang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1392798221_ả.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6-Lan-Huong.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anh-ribi-sachi-thuy-0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trang-diem-chup-anh-chan-dung.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\81A6XWkGEgL._SY355_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\697ce6bfe349a2817eb29c51532f5007--red-eyes-anime-anime-boy-black-hair-red-eyes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\original.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2Hg4PE_simg_d0daf0_800x1200_max.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3-ao-thun-nam-co-co-tay-vien-den-r.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ao_thun_nam_tay_dai_HBO_den_phoi_trang_A9033_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ao_nam_tay_dai_thun_4_chieu_co_gian_tot_b8888.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\149741062412.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cach-chon-size-ao-21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a361ed71542a7d8448ad0ff81263293a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mix-ao-thun-tron-phong-cach-khong-he-kho-voi-cach-nay-612-924.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nguoi_su_dung1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ThuVien\ThuVien.csproj">
+      <Project>{ECB703E8-F2A1-4BBF-BF5A-D4924E150663}</Project>
+      <Name>ThuVien</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_exit_28363.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_change_password_63985.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_preferences-contact-list_24249.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_preferences-desktop-user_8806.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_hot-dogs-truck-food-delivery-street_3558109.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Business_coins_finance_banking_bank_marketing_1886510.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_12.File_290138.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer-service.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

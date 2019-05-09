@@ -1,0 +1,170 @@
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\ThuVien.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\ThuVien.pdb
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.pdb
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Data.v18.1.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Data.v18.1.xml
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.csprojAssemblyReference.cache
+D:\DoAn\DoAnMonHoc\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.csproj.CopyComplete
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ThuVien.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ThuVien.pdb
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.csprojResolveAssemblyReference.cache
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.dll
+C:\Users\HUY\Desktop\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.pdb
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\ThuVien.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\ThuVien.pdb
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Data.v18.1.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Data.v18.1.xml
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.csprojAssemblyReference.cache
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.csproj.CopyComplete
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.dll
+D:\DoAn\DoAnMonHoc\QL_Shop (1)\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.pdb
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ThuVien.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ThuVien.pdb
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Data.v18.1.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Data.v18.1.xml
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.csprojAssemblyReference.cache
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.csproj.CopyComplete
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.dll
+D:\DoAn\DoAnMonHoc\QL_Shop\QL_Shop\GiaoDien\ThuVien\obj\Debug\ThuVien.pdb
